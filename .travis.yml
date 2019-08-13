@@ -27,5 +27,5 @@ deploy:
     - build/ipmi_exporter_windows_386.exe
     - build/ipmi_exporter_windows_amd64.exe
   on:
-    repo: lovoo/ipmi_exporter
+    repo: mtds/ipmi_exporter
     tags: true
