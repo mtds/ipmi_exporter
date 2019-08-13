@@ -4,6 +4,12 @@
 
 IPMI Exporter for prometheus.io, written in Go.
 
+**THIS IS A FORK** of the original repository, which is available [here](https://github.com/lovoo/ipmi_exporter).
+
+This repo has:
+* merged two additional pull requests;
+* a fix for the [issue 31](https://github.com/lovoo/ipmi_exporter/issues/31).
+
 ## Requirements
 
 * ipmitool
